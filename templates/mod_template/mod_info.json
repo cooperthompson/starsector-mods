@@ -1,0 +1,21 @@
+{
+	# Starsector reads this loosely: '#' comments and trailing commas are allowed.
+	"id":"__MOD_ID__",
+	"name":"__MOD_NAME__",
+	"author":"Merisai",
+	"version":"0.1.0",
+	"description":"__MOD_NAME__",
+	"gameVersion":"0.98a-RC8",
+
+	# Uncomment once the mod has Java code (see README "Mods with code").
+	# "jars":["jars/__MOD_ID__.jar"],
+	# "modPlugin":"merisai.__MOD_ID__.ModPlugin",
+
+	# "dependencies":[
+	# 	{"id":"lw_lazylib", "name":"LazyLib"},
+	# 	{"id":"MagicLib", "name":"MagicLib"},
+	# ],
+
+	# Vanilla files to replace outright instead of merging with, e.g.
+	# "replace":["data/campaign/rules.csv"],
+}

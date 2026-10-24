@@ -1,0 +1,17 @@
+# Build output and IDE files
+build/
+out/
+.gradle/
+.idea/
+*.iml
+*.class
+
+# Release archives
+*.zip
+
+# Local Claude Code settings
+.claude/settings.local.json
+
+*.stackdump
+Thumbs.db
+desktop.ini

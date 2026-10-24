@@ -1,0 +1,11 @@
+{
+	"masterVersionFile":"https://raw.githubusercontent.com/cooperthompson/starsector-mods/main/mods/__MOD_ID__/__MOD_ID__.version",
+	"modName":"__MOD_NAME__",
+	"modThreadId":0,
+	"modVersion":
+	{
+		"major":0,
+		"minor":1,
+		"patch":0
+	}
+}
